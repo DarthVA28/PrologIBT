@@ -1,2 +1,2 @@
-# PrologIBT
-Integer Binary Trees Implementation in Prolog
+# Integer Binary Trees
+A declaritive implementation of IBTs and IBSTs in Prolog.
